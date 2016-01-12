@@ -251,7 +251,7 @@
           .attr("d", path)
           .attr('transform', "translate(" + padding[3]/2 + "," + 0 + ")");
 
-         d3.csv("MSA Data/Stanford_MSA_Database_for_release_12082015_CartoDB.csv", function(data) {
+         d3.csv("MSAData/Stanford_MSA_Database_for_release_12082015_CartoDB.csv", function(data) {
 
             data.forEach(function(dat){
               return dat.year = parseInt(dat.Date.slice(0,2)) > 16 ?
