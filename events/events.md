@@ -6,6 +6,7 @@
 #### [Odd Salon FOLLY](https://www.facebook.com/events/203402866710202/)
 May 3 @ 7:00 pm - 10:00 pm
 DNA Lounge
+Stories of failure and fortitude, bad ideas, rotten luck, lunatic ambition & the glories of ridiculous invention
 [tickets](http://www.oddsalon.com/salon/folly/)
 
 #### [Steampunk Masquerade](https://www.facebook.com/events/757249971072121/779649408832177/) 
